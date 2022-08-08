@@ -6,6 +6,8 @@
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Offline-Voice-Control-Smart-Ball-Light) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Offline-Voice-Control-Smart-Ball-Light) | 🔗 [GitHub](https://github.com/yanranxiaoxi/Offline-Voice-Control-Smart-Ball-Light)
 
+![实拍图](https://downloadserver.soraharu.com:7000/Offline%20Voice%20Control%20Smart%20Ball%20Light/Image/Product_quality_8_1620x1080px.jpg)
+
 ## 🤔 这是什么
 
 这是一款离线语音智能小球灯，使用 [嘉立创 EDA 专业版](https://pro.lceda.cn/) 进行开发。
