@@ -1,0 +1,978 @@
+{
+  "schematics": {
+    "26ec58dab4a84347b818724c5e2aaf22": {
+      "name": "Schematic_v1",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1
+        }
+      ]
+    },
+    "85d9807ab3c94efa9c945362f4d5aad2": {
+      "name": "Schematic_v2",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "5709a2b6c56d47d0aab6e5d5a879fade": "PCB_v2",
+    "cb0b1483925e4f8eb18b21cc3f68a60b": "PCB_v1"
+  },
+  "panels": {},
+  "symbols": {
+    "12fdd68ee7534e5ca8f678a4db93a7cf": {
+      "source": "817a2b12f1f8444aa9dd23951b703391",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Connectors\",\"Pin Headers\"]",
+      "title": "210S-1*2P L=11.6MMGold-plated black",
+      "version": "1644309612",
+      "type": 2
+    },
+    "1e4c09b4e44c4806bec99c7ad6381da9": {
+      "source": "3ad767945e444bf1af2b6fefd6e4591d",
+      "desc": "TSAL6200",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Optoelectronics\",\"Infrared (IR) LEDs\"]",
+      "title": "TSAL6200",
+      "version": "1659346807",
+      "type": 2
+    },
+    "1edeedd45e2046818fcc654b3f2f91b6": {
+      "source": "0a714aacf2ef40d6b515461b004ad926",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Connectors\",\"Pin Headers\"]",
+      "title": "Header-Male-2.54_1x4",
+      "version": "1644309612",
+      "type": 2
+    },
+    "2d939418f4f744f087b3ef6a16bea40c": {
+      "source": "afd5b31e1aa244a6b19282114a545125",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Audio Products/Micromotors\",\"Microphones\"]",
+      "title": "GMI9767P-32DB",
+      "version": "1641821494",
+      "type": 2
+    },
+    "40f1eec295464273adf2cdfe9646a7b3": {
+      "source": "26ad78704bac411cb5d6b13b13cb2742",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Transistors\",\"Bipolar Transistors - BJT\"]",
+      "title": "NPN",
+      "version": "1653975882",
+      "type": 2
+    },
+    "4a7aabd34add41ca84f4786b59b8e343": {
+      "source": "eea4b2df3220463cbf5244b5d5ad7a7f",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Optoelectronics\",\"Infrared (IR) LEDs\"]",
+      "title": "IR333-A_C264290",
+      "version": "1659346817",
+      "type": 2
+    },
+    "8b40d416c5fa40e9baff6a9def56f57d": {
+      "source": "542d01b8b25e4236a453d7437c3944df",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Ground-GND",
+      "version": "1642995718",
+      "type": 18
+    },
+    "991bd19201434261aec523e70b40a0a6": {
+      "source": "1b724be1c27545f1bd3a83bb97f39424",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Functional Modules\",\"V-Audio Modules\"]",
+      "title": "CI-C22GS02S",
+      "version": "1641821776",
+      "type": 2
+    },
+    "9b7cd0f9fcba4f55bfbabae469f7c32b": {
+      "source": "f2baecf085944dad81faf9a0fd6bfcea",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Sheet-Symbol_A4",
+      "version": "1656921158",
+      "type": 20
+    },
+    "a1bb7415230747c4ad6ce73dfd8f4ceb": {
+      "source": "19bb8cd7dbe54de983c555569d42b6b9",
+      "desc": "100uF 16V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Aluminum Electrolytic Capacitors - Leaded\"]",
+      "title": "100uF 16V 5*11",
+      "version": "1656996649",
+      "type": 2
+    },
+    "b375e8b68a754c47a12c3694df5daac1": {
+      "source": "f7609b7188d24e5bbd244ce143829ab9",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "C1210X7R475K630NT",
+      "version": "1652243704",
+      "type": 2
+    },
+    "c8757bd17c5f4d3c9f0d67bbfd2aa812": {
+      "source": "8a04e22374494d55957a030ec33de1cb",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "5-Voltage",
+      "version": "1656577930",
+      "type": 18
+    },
+    "d2205ab11be54d3e95610e4550cd2ea0": {
+      "source": "1edd0cb6cc7d4ea6ae33b108195309b4",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Audio Products/Micromotors\",\"Microphones\"]",
+      "title": "GMI6050P-36DB",
+      "version": "1641821492",
+      "type": 2
+    },
+    "ddcd258f96b1470d80bfe88d9f7545ab": {
+      "source": "6c210b31f2e0446e86699f02dadebe58",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Optoelectronics\",\"Light Emitting Diodes (LED)\"]",
+      "title": "TJ-L5FCMXHTCYLCRGB-A5",
+      "version": 1659100465,
+      "type": 2
+    },
+    "e06c3158e51e4fbcb55c86bb8f0ac3e3": {
+      "source": "337f98afd0264cae93d16cc3bf65754a",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "电阻",
+      "version": "1653966354",
+      "type": 2
+    },
+    "e7a8ebb9170741c79d06aa9d961a47de": {
+      "source": "d292542402b64ef8a403a4bcb4a742ce",
+      "desc": "IRM-H638T/TR2",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Optoelectronics\",\"Infrared remote receiver\"]",
+      "title": "IRM-H638T/TR2",
+      "version": "1659346836",
+      "type": 2
+    }
+  },
+  "footprints": {
+    "1895ba28783b41b1a79855b706d57fe7": {
+      "title": "MIC-TH_BD6.0-P2.00-V",
+      "source": "ecb669032a574e0dbbdd4a4aa6ed126c",
+      "version": "1618997291",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"MIC-TH\"]"
+    },
+    "36826fe488ad4581966a8f9746f74e80": {
+      "title": "LED-TH_4P-BD5.8-P1.30",
+      "source": "0fe5339eb752402f84e6537669468dd7",
+      "version": "1638683836",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"LED-TH\"]"
+    },
+    "5511a5500c1f42619e75e16e3ced7d0f": {
+      "title": "CAP-TH_BD5.0-P2.00-D0.8-FD",
+      "source": "5c5bb870e2c842fe8cb2ddebd57d7be4",
+      "version": "1641517854",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-TH\"]"
+    },
+    "5709a2b6c56d47d0aab6e5d5a879fade_e334": {
+      "title": "HDR-TH_2P-P2.54-V-M-1",
+      "source": "6f92749b439847cc9c384208eb66584e",
+      "version": "1651041486",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]",
+      "uuid": "5709a2b6c56d47d0aab6e5d5a879fade_e334"
+    },
+    "5709a2b6c56d47d0aab6e5d5a879fade_e336": {
+      "title": "HDR-TH_2P-P2.54-V-M-1",
+      "source": "6f92749b439847cc9c384208eb66584e",
+      "version": "1651041486",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]",
+      "uuid": "5709a2b6c56d47d0aab6e5d5a879fade_e336"
+    },
+    "5709a2b6c56d47d0aab6e5d5a879fade_e338": {
+      "title": "HDR-TH_4P-P2.54-V-M",
+      "source": "c7fdc0a8cda94b26a5b2ae9135ca8f29",
+      "version": "1639816316",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]",
+      "uuid": "5709a2b6c56d47d0aab6e5d5a879fade_e338"
+    },
+    "5709a2b6c56d47d0aab6e5d5a879fade_e362": {
+      "title": "HDR-TH_2P-P2.54-V-M-1",
+      "source": "6f92749b439847cc9c384208eb66584e",
+      "version": "1651041486",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]",
+      "uuid": "5709a2b6c56d47d0aab6e5d5a879fade_e362"
+    },
+    "5709a2b6c56d47d0aab6e5d5a879fade_e386": {
+      "title": "MIC-TH_BD6.0-P2.00-V",
+      "source": "1895ba28783b41b1a79855b706d57fe7",
+      "version": "1618997291",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"MIC-TH\"]",
+      "uuid": "5709a2b6c56d47d0aab6e5d5a879fade_e386"
+    },
+    "6f92749b439847cc9c384208eb66584e": {
+      "title": "HDR-TH_2P-P2.54-V-M-1",
+      "source": "f8790065914e4d75b82d300fa5733686",
+      "version": "1651041486",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]"
+    },
+    "a47f18d7e5cf4046814b04f3d506209b": {
+      "title": "SENSOR-SMD_IRM-H638T-TR2-TL",
+      "source": "38a57c1d867048ae8d79187fb6495d98",
+      "version": "1655284324",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SENSOR-SMD\"]"
+    },
+    "a7c6271592844058b660fb827ffbbe28": {
+      "title": "LED-TH_BD5.0-P2.54-FD",
+      "source": "f42242d51ea0429fbb74db238a5ee292",
+      "version": "1644993620",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"LED-TH\"]"
+    },
+    "b600bb56c904476b967f3c1564994a8f": {
+      "title": "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+      "source": "ecaa73f2519d4ef2a234dcb0b519ba21",
+      "version": "1652426410",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOT-23\"]"
+    },
+    "c7fdc0a8cda94b26a5b2ae9135ca8f29": {
+      "title": "HDR-TH_4P-P2.54-V-M",
+      "source": "55a1ecf332f24bc1b8208f936e198213",
+      "version": "1639816316",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]"
+    },
+    "ca31d16fe12a4131a3c7946b325b9a9b": {
+      "title": "SMD-17_L20.0-W1.80-CI-C22GS02S",
+      "source": "f4459c81e7904e5fb4ba33d9920e67d4",
+      "version": "1631152670",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SMD-17\"]"
+    },
+    "e484e4e933544e11b450ea2abed5e541": {
+      "title": "C0603",
+      "source": "76d6c29a47804db487f8a92b2621751b",
+      "version": "1652410754",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\"]"
+    },
+    "e79abe41d23e491495dae2961766763c": {
+      "title": "R0603",
+      "source": "50b4943912284dab97752312e589e9e2",
+      "version": "1651215817",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"RES-SMD\"]"
+    },
+    "e9e99f2b5fe64f89a18aa7fe7b7e5739": {
+      "title": "LED-TH_BD6.2-P2.54-FD",
+      "source": "97f1c9d049cd4a9b99f97407211510c3",
+      "version": "1590750464",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"LED-TH\"]"
+    },
+    "ffa9dc0fe166466dabb2b426f95e718b": {
+      "title": "MIC-TH_BD9.7-P2.54-D0.8-L-FD",
+      "source": "4a0b003be8e2431f82266e0fa88b2dd7",
+      "version": "1642750694",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"MIC-TH\"]"
+    }
+  },
+  "devices": {
+    "0b19c7e6999a4d81a1f040f7335e4a54": {
+      "title": "S8050_NPN_1",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Designator": "Q?",
+        "Supplier Part": "C444723",
+        "Supplier Footprint": "SOT-23",
+        "Symbol": "40f1eec295464273adf2cdfe9646a7b3",
+        "Footprint": "b600bb56c904476b967f3c1564994a8f",
+        "3D Model": "c62791f0466c4ae2a892c056b845b0ca",
+        "3D Model Title": "SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95",
+        "3D Model Transform": "98.6,114.12,41.29,180,0,0,0,0,-3",
+        "Description": "晶体管类型:NPN;集射极击穿电压(Vceo):25V;集电极电流(Ic):500mA;功率(Pd):300mW;集电极-发射极饱和电压(VCE(sat)@Ic,Ib):600mV@500mA,50mA;直流电流增益(hFE@Ic,Vce):-;特征频率(fT):150MHz;工作温度:+150℃@(Tj);"
+      },
+      "description": "晶体管类型:NPN;集射极击穿电压(Vceo):25V;集电极电流(Ic):500mA;功率(Pd):300mW;集电极-发射极饱和电压(VCE(sat)@Ic,Ib):600mV@500mA,50mA;直流电流增益(hFE@Ic,Vce):-;特征频率(fT):150MHz;工作温度:+150℃@(Tj);",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "eed7fb8cc9f9408d8af789dde927a9da",
+      "version": "1653979530",
+      "custom_tags": "[\"Transistors\",\"Bipolar Transistors - BJT\"]"
+    },
+    "0c675b12d3d64132b839ba97b8ae2524": {
+      "title": "Res_0603",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Designator": "R?",
+        "Supplier Footprint": "0603",
+        "Symbol": "e06c3158e51e4fbcb55c86bb8f0ac3e3",
+        "Footprint": "e79abe41d23e491495dae2961766763c",
+        "3D Model": "8176a32bb9f4431db75ab5f6460c2416",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.5",
+        "3D Model Transform": "63,31.5,20.1,0,0,0,0,0,0",
+        "Value": "10K",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "f61af53b8d604d888b6dd9daa1a301b0",
+      "version": "1653975500",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "1854ccf4b329463c8e0800e7e04cd1e8": {
+      "title": "Power-5V",
+      "attributes": {
+        "Symbol": "c8757bd17c5f4d3c9f0d67bbfd2aa812",
+        "Global Net Name": "+5V",
+        "Footprint": ""
+      },
+      "description": "Power-5V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "c19033e4f560428090e4fc097513e5e3",
+      "version": "1656577930",
+      "custom_tags": "[]"
+    },
+    "287f7cc97ccb4919a594c388db51ba1b": {
+      "title": "KM107M016D11RR0VH2FP0",
+      "attributes": {
+        "LCSC Part Name": "100uF 16V",
+        "Supplier Part": "C43348",
+        "Manufacturer": "CX(承兴)",
+        "Manufacturer Part": "KM107M016D11RR0VH2FP0",
+        "Supplier Footprint": "径向引线,5x11mm",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707524201.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "a1bb7415230747c4ad6ce73dfd8f4ceb",
+        "Designator": "C?",
+        "Footprint": "5511a5500c1f42619e75e16e3ced7d0f",
+        "3D Model": "edeeed87cbc746108d01291548c38636",
+        "3D Model Title": "CAP-TH_D5.0×H7.0×P2.0",
+        "3D Model Transform": "197.1,196.7,0,180,0,180,0,0,275.6",
+        "Lead Spacing": "2mm",
+        "Value": "100uF",
+        "Equivalent Series Resistance(ESR)": "-",
+        "Tolerance": "±20%",
+        "φD": "5mm",
+        "Rated Voltage": "16V",
+        "Operating Temperature": "-",
+        "L": "11mm",
+        "Ripple Current": "125mA 120Hz",
+        "Lifetime @ Temp": "1000hrs 105℃",
+        "Description": "脚间距:2mm;容值:100uF;等效串联电阻:-;精度:±20%;电容体直径:5mm;额定电压:16V;工作温度:-;电容体长度:11mm;纹波电流:125mA 120Hz;工作寿命:1000hrs 105℃;"
+      },
+      "description": "脚间距:2mm;容值:100uF;等效串联电阻:-;精度:±20%;电容体直径:5mm;额定电压:16V;工作温度:-;电容体长度:11mm;纹波电流:125mA 120Hz;工作寿命:1000hrs 105℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "70341c9850f2482c82ca441349da5ad8",
+      "version": "1658348575",
+      "custom_tags": "[\"Capacitors\",\"Aluminum Electrolytic Capacitors - Leaded\"]"
+    },
+    "440a6446e1614b519d77b2484d30df26": {
+      "title": "IR333-A",
+      "attributes": {
+        "LCSC Part Name": "IR333-A",
+        "Supplier Part": "C264290",
+        "Manufacturer": "EVERLIGHT(台湾亿光)",
+        "Manufacturer Part": "IR333-A",
+        "Supplier Footprint": "插件,D=5mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180817/C264290_D452DB7A7A471D82545A1C65BE35F27E.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "4a7aabd34add41ca84f4786b59b8e343",
+        "Designator": "U?",
+        "Footprint": "e9e99f2b5fe64f89a18aa7fe7b7e5739",
+        "3D Model": "002e58ac71644a3881ed56fcedaceeee",
+        "3D Model Title": "LED-TH_5mm_W",
+        "3D Model Transform": "214.6,232,0,0,0,0,-7.9,0,-137.8",
+        "Wavelength": "940nm",
+        "Radiant Intensity": "20mW/sr @ 20mA",
+        "Operating Temperature": "-40℃~85℃",
+        "Description": "波长:940nm;辐射强度:20mW/sr @ 20mA;工作温度:-40℃~85℃;"
+      },
+      "description": "波长:940nm;辐射强度:20mW/sr @ 20mA;工作温度:-40℃~85℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "5efe891c775240aea09741220390c75b",
+      "version": "1654805201",
+      "custom_tags": "[\"Optoelectronics\",\"Infrared (IR) LEDs\"]"
+    },
+    "44d3d3eb5a9847519a32d545f40be44a": {
+      "title": "B-2100S04P-A110",
+      "attributes": {
+        "LCSC Part Name": "2.54mm 1x4P",
+        "Supplier Part": "C124378",
+        "Manufacturer": "Ckmtw(灿科盟)",
+        "Manufacturer Part": "B-2100S04P-A110",
+        "Supplier Footprint": "插件,P=2.54mm",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170821/C124378_1503303307508901532.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "1edeedd45e2046818fcc654b3f2f91b6",
+        "Designator": "H?",
+        "Footprint": "c7fdc0a8cda94b26a5b2ae9135ca8f29",
+        "3D Model": "112f4d05e8d64e99ab9a333894bea4f9",
+        "3D Model Title": "HDR-TH_4P-P2.54-M-LI-1X4P",
+        "3D Model Transform": "400,104.7,0,0,0,0,0,0,-118.1",
+        "Pitch": "2.54mm",
+        "Number of Pins": "4",
+        "Number of Rows": "1",
+        "Pin Structure": "1x4P",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "-",
+        "Current Rating (Max)": "-",
+        "Voltage Rating (Max)": "-",
+        "Length of Mating Pin": "6mm",
+        "Insulation Height": "2.54mm",
+        "Length of End Connection Pin": "3mm",
+        "Contact Material": "黄铜",
+        "Contact Plating": "-",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Color": "黑色",
+        "Description": "间距:2.54mm;总PIN位数:4;排数:1;插针结构:1x4P;行距:-;安装类型:直插;圆针/方针:-;额定电流:-;额定电压:-;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:-;工作温度范围:-40℃~+105℃;颜色:黑色;"
+      },
+      "description": "间距:2.54mm;总PIN位数:4;排数:1;插针结构:1x4P;行距:-;安装类型:直插;圆针/方针:-;额定电流:-;额定电压:-;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:-;工作温度范围:-40℃~+105℃;颜色:黑色;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "03f2d26dc66a4070bdf551926e792598",
+      "version": "1655410853",
+      "custom_tags": "[\"Connectors\",\"Pin Headers\"]"
+    },
+    "46193933b1b146d98afe93b369857c60": {
+      "title": "IRM-H638T/TR2",
+      "attributes": {
+        "LCSC Part Name": "IRM-H638T/TR2",
+        "Supplier Part": "C91447",
+        "Manufacturer": "EVERLIGHT(台湾亿光)",
+        "Manufacturer Part": "IRM-H638T/TR2",
+        "Supplier Footprint": "SMD-4",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20161219/1482143954829.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e7a8ebb9170741c79d06aa9d961a47de",
+        "Designator": "CGQ?",
+        "Footprint": "a47f18d7e5cf4046814b04f3d506209b",
+        "3D Model": "a8285c9fa52d4dbeaf683e5fb99b8c5f",
+        "3D Model Title": "SENSOR-SMD_L5.0-W4.0-H4.0-LS7.0-P2.54",
+        "3D Model Transform": "196.85,275.59,0,270,0,0,0,0.001,0",
+        "Supply Voltage": "2.7V~5.5V",
+        "Supply Current": "1.2mA",
+        "Transmission Distance": "-",
+        "Center Frequency": "-",
+        "Half Angle": "45°@垂直；45°@水平",
+        "Power Consumption": "-",
+        "Operating Temperature": "-25℃~+85℃",
+        "Description": "工作电压:2.7V~5.5V;工作电流:1.2mA;接收距离:-;中心频率:-;接收角度:45°@垂直；45°@水平;功耗:-;工作温度:-25℃~+85℃;"
+      },
+      "description": "工作电压:2.7V~5.5V;工作电流:1.2mA;接收距离:-;中心频率:-;接收角度:45°@垂直；45°@水平;功耗:-;工作温度:-25℃~+85℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "c76d84d6c49d480d98a9a8f3a893ffa4",
+      "version": "1657742871",
+      "custom_tags": "[\"Optoelectronics\",\"Infrared remote receiver\"]"
+    },
+    "6d312dd9895b45a89efd9d57b5f106f3": {
+      "title": "B-2100S02P-A110",
+      "attributes": {
+        "LCSC Part Name": "2.54mm 1x2P",
+        "Supplier Part": "C124375",
+        "Manufacturer": "Ckmtw(灿科盟)",
+        "Manufacturer Part": "B-2100S02P-A110",
+        "Supplier Footprint": "插件,P=2.54mm",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170821/C124375_1503303305760901527.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "12fdd68ee7534e5ca8f678a4db93a7cf",
+        "Designator": "H?",
+        "Footprint": "6f92749b439847cc9c384208eb66584e",
+        "3D Model": "79b2e9f2d70a4d68a1b7098f27c6d4c5",
+        "3D Model Title": "HDR-M-2.54_1x2",
+        "3D Model Transform": "200,100,0,0,0,0,0,0,-118.11",
+        "Pitch": "2.54mm",
+        "Number of Pins": "2",
+        "Number of Rows": "1",
+        "Pin Structure": "1x2P",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "-",
+        "Current Rating (Max)": "-",
+        "Voltage Rating (Max)": "-",
+        "Length of Mating Pin": "6mm",
+        "Insulation Height": "2.54mm",
+        "Length of End Connection Pin": "3mm",
+        "Contact Material": "黄铜",
+        "Contact Plating": "-",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Color": "黑色",
+        "Description": "间距:2.54mm;总PIN位数:2;排数:1;插针结构:1x2P;行距:-;安装类型:直插;圆针/方针:-;额定电流:-;额定电压:-;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:-;工作温度范围:-40℃~+105℃;颜色:黑色;"
+      },
+      "description": "间距:2.54mm;总PIN位数:2;排数:1;插针结构:1x2P;行距:-;安装类型:直插;圆针/方针:-;额定电流:-;额定电压:-;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:-;工作温度范围:-40℃~+105℃;颜色:黑色;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "413e1ee0270e47adab3cd56aebe55635",
+      "version": "1651870849",
+      "custom_tags": "[\"Connectors\",\"Pin Headers\"]"
+    },
+    "70c6e9e01e4e4efbb3d1b51a0d415414": {
+      "title": "GMI9767P-32DB",
+      "attributes": {
+        "LCSC Part Name": "全指向φ9.7*6.7mm 1.5V-10V 灵敏度-32db 低阻抗 针脚",
+        "Supplier Part": "C234013",
+        "Manufacturer": "INGHAi(赢海)",
+        "Manufacturer Part": "GMI9767P-32DB",
+        "Supplier Footprint": "插件",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200113/C234013_A16B9069D4AE5E4BDFEB626D8CC9A7A0.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "2d939418f4f744f087b3ef6a16bea40c",
+        "Designator": "MIC?",
+        "Footprint": "ffa9dc0fe166466dabb2b426f95e718b",
+        "3D Model": "3e6ff5061b6a4269a617fff4b67fdade",
+        "3D Model Title": "MIC-TH_BD9.7-P2.54-D0.8-L-FD",
+        "3D Model Transform": "381.889,381.13538,0,0,0,0,0,79.016,-118.11",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "894228da39e54b12a00a734349ad9eb5",
+      "version": "1654805250",
+      "custom_tags": "[\"Audio Products/Micromotors\",\"Microphones\"]"
+    },
+    "79869988d6674cb786ae3b346d300fbc": {
+      "title": "TSAL6200",
+      "attributes": {
+        "LCSC Part Name": "TSAL6200",
+        "Supplier Part": "C55528",
+        "Manufacturer": "VISHAY(威世)",
+        "Manufacturer Part": "TSAL6200",
+        "Supplier Footprint": "Through Hole",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20150821/1457707347544.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "1e4c09b4e44c4806bec99c7ad6381da9",
+        "Designator": "IR?",
+        "Footprint": "a7c6271592844058b660fb827ffbbe28",
+        "3D Model": "b0e300213b7e4bc9906214592eb37e0a",
+        "3D Model Title": "LED-TH_BD5.0_Blue",
+        "3D Model Transform": "204.724,220.175,0,0,0,0,-0.874,0,-137.795",
+        "Wavelength": "940nm",
+        "Radiant Intensity": "40mW/sr @ 100mA",
+        "Operating Temperature": "-40℃~ 85℃ (TA)",
+        "Description": "波长:940nm;辐射强度:40mW/sr @ 100mA;工作温度:-40℃~ 85℃ (TA);"
+      },
+      "description": "波长:940nm;辐射强度:40mW/sr @ 100mA;工作温度:-40℃~ 85℃ (TA);",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "5932354105384ac59a7cae6aa33a50cd",
+      "version": "1655583695",
+      "custom_tags": "[\"Optoelectronics\",\"Infrared (IR) LEDs\"]"
+    },
+    "828e853f7846404bb4863913da960c82": {
+      "title": "Sheet-Symbol_A4",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Company": "深圳市嘉立创科技发展有限公司",
+        "Drawed": "久治明千树汐",
+        "Reviewed": "久治明千树汐",
+        "Version": "V0.1.0",
+        "Page Size": "A4",
+        "@Project Name": "Project Name",
+        "@Page Count": "1",
+        "@Update Date": "2020.12.30",
+        "@Create Date": "2020.12.30",
+        "@Schematic Name": "Schematic Name",
+        "Part Number": "001",
+        "@Page No": "3",
+        "@Page Name": "",
+        "Symbol": "9b7cd0f9fcba4f55bfbabae469f7c32b"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "4b872d674c0b4b0e8ede0a73cf1a0316",
+      "version": "1611281866",
+      "custom_tags": "[\"\",\"\"]"
+    },
+    "925470648b874a86b2c754412c1d2512": {
+      "title": "GMI6050P-36db",
+      "attributes": {
+        "LCSC Part Name": "全指向φ6.0*5.0mm 1.5V-10V 灵敏度-36db 低阻抗 针脚",
+        "Supplier Part": "C233939",
+        "Manufacturer": "INGHAi(赢海)",
+        "Manufacturer Part": "GMI6050P-36db",
+        "Supplier Footprint": "插件,P=1.9mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180613/C233939_A0491308E11492987106191423690B04.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d2205ab11be54d3e95610e4550cd2ea0",
+        "Designator": "MIC?",
+        "Footprint": "1895ba28783b41b1a79855b706d57fe7",
+        "3D Model": "82ef46408d2c4beaad49e9668229e7ca",
+        "3D Model Title": "MIC-TH_BD6.0-P2.00-V",
+        "3D Model Transform": "237,289.4,0,0,0,0,0,-135.9,-196.8",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "b4e9e6d2ff3c46e4bd6130a576a514e3",
+      "version": "1654805249",
+      "custom_tags": "[\"Audio Products/Micromotors\",\"Microphones\"]"
+    },
+    "9b893d21a9bf4fd8802600acef77ea7b": {
+      "title": "CAP_0603",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Designator": "C?",
+        "Supplier Footprint": "0603",
+        "Symbol": "b375e8b68a754c47a12c3694df5daac1",
+        "Footprint": "e484e4e933544e11b450ea2abed5e541",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+      },
+      "description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "4e48d71315ce4d4c9f2ca294a3b1380b",
+      "version": "1653034254",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    },
+    "a836c0c3254c46a284da4eefcadd8925": {
+      "title": "CI-C22GS02S",
+      "attributes": {
+        "LCSC Part Name": "CI-C22GS02S(1122标准贴片板)",
+        "Supplier Part": "C2759836",
+        "Manufacturer": "Chiplntelli(启英泰伦)",
+        "Manufacturer Part": "CI-C22GS02S",
+        "Supplier Footprint": "-",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210518/C2759836_8FF2885DB12E9D84F6718EBDD5078346.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "991bd19201434261aec523e70b40a0a6",
+        "Designator": "U?",
+        "Footprint": "ca31d16fe12a4131a3c7946b325b9a9b",
+        "3D Model": "e7d1d0b64caa45a594211cb2137f04a0",
+        "3D Model Title": "SMD-17_L20.0-W1.80-CI-C22GS02S",
+        "3D Model Transform": "708.7,788.2,0,270,0,0,0,0,0",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "f208311dd78f49cbb08984c1549a0a76",
+      "version": "1652124424",
+      "custom_tags": "[\"Functional Modules\",\"V-Audio Modules\"]"
+    },
+    "bba4b71fa9e2482bb3d38ff8e7597ed2": {
+      "title": "TJ-L5FCMXHTCYLCRGB-A5",
+      "attributes": {
+        "LCSC Part Name": "RGB三色 共阳极 草帽",
+        "Supplier Part": "C2837018",
+        "Manufacturer": "TOGIALED(台湾统佳)",
+        "Manufacturer Part": "TJ-L5FCMXHTCYLCRGB-A5",
+        "Supplier Footprint": "插件,D=5mm",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210617/C2837018_8E26FA8363448FE2426644DEE2002080.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ddcd258f96b1470d80bfe88d9f7545ab",
+        "Designator": "LED?",
+        "Footprint": "36826fe488ad4581966a8f9746f74e80",
+        "3D Model": "8e7d0fc3ad9f4d0c978f68e9becb3e9c",
+        "3D Model Title": "LED-TH_4P-BD5.8-P1.30-RGB",
+        "3D Model Transform": "212.6,228.2,0,0,0,0,-7.9,0,-137.8",
+        "Emitted Color": "RGB三色",
+        "Diode Configuration": "共阳极",
+        "Lens Color": "无色透明",
+        "Dominant Wavelength": "620nm~630nm；525nm；460nm~470nm",
+        "Peak Wavelength": "520nm；620nm；465nm",
+        "Color Temperature": "-",
+        "Luminous Flux (@25℃)": "-",
+        "Forward Current": "20mA",
+        "Forward Voltage (VF)": "3.4V；2.4V",
+        "Luminous Intensity": "1500mcd；500mcd；400mcd",
+        "Power Dissipation": "320mW",
+        "Viewing Angle": "-",
+        "Mounting Sytle": "-",
+        "Operating Temperature": "-20℃~+80℃",
+        "Description": "发光颜色:RGB三色;二极管配置:共阳极;透镜颜色:无色透明;主波长:620nm~630nm；525nm；460nm~470nm;峰值波长:520nm；620nm；465nm;色温:-;光通量(25℃时):-;测试电流:20mA;正向电压(VF):3.4V；2.4V;发光强度:1500mcd；500mcd；400mcd;功率:320mW;发光角度:-;安装方式:-;工作温度:-20℃~+80℃;"
+      },
+      "description": "发光颜色:RGB三色;二极管配置:共阳极;透镜颜色:无色透明;主波长:620nm~630nm；525nm；460nm~470nm;峰值波长:520nm；620nm；465nm;色温:-;光通量(25℃时):-;测试电流:20mA;正向电压(VF):3.4V；2.4V;发光强度:1500mcd；500mcd；400mcd;功率:320mW;发光角度:-;安装方式:-;工作温度:-20℃~+80℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "b6e9c00adc094bb6aa521922c903b1ac",
+      "version": "1657123221",
+      "custom_tags": "[\"Optoelectronics\",\"Light Emitting Diodes (LED)\"]"
+    },
+    "c29bdd8d254142e8a6c60092e2c08e1f": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Symbol": "8b40d416c5fa40e9baff6a9def56f57d"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "9a64ac5790a940f7ae40fc736dc6faff",
+      "version": "1635931210",
+      "custom_tags": "[]"
+    }
+  },
+  "boards": {
+    "Standard": {
+      "schematic": "26ec58dab4a84347b818724c5e2aaf22",
+      "pcb": "cb0b1483925e4f8eb18b21cc3f68a60b"
+    },
+    "Advanced (with IR)": {
+      "schematic": "85d9807ab3c94efa9c945362f4d5aad2",
+      "pcb": "5709a2b6c56d47d0aab6e5d5a879fade"
+    }
+  },
+  "config": {
+    "title": "小汐 -> 离线语音智能小球灯",
+    "cbbProject": false,
+    "defaultSheet": "828e853f7846404bb4863913da960c82",
+    "editorVersion": "1.8.16"
+  }
+}
